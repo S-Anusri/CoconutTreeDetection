@@ -1,5 +1,5 @@
 # CoconutTreeDetection
-Work done by Anusri Sanyadanam as part of the VSFS Internship under the mentorship of Thomas Cecere
+Work done by Anusri S as part of the VSFS Internship under the mentorship of Thomas Cecere
 
 RoIs for this work are:
 1. Majuro, Republic of Marshall Islands
